@@ -1,2 +1,2 @@
 # FirstRepository
- curso github
+ Primeiro repositório do curso git/github.
